@@ -1,6 +1,6 @@
 **评论链接重定向**
 
-Version: 1.0
+Version: 1.1
 插件地址：[http://www.wheatime.com/2009/06/comments-link-redirect.html](http://www.wheatime.com/2009/06/comments-link-redirect.html)
 
 **使用方法：**

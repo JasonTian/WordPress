@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Comments Link Redirect
-Plugin URI:  http://blog.SuccessFu.net.ru/tag/comments-link-redirect
-Description: Comments Link Redirect. <a href="http://blog.SuccessFu.net.ru/tag/comments-link-redirect" target="_blank">How to use this Plugin?</a>
-Version: 1.0
+Plugin URI: http://www.wheatime.com/2009/06/comments-link-redirect.html 
+Description: Comments Link Redirect. <a href="http://www.wheatime.com/2009/06/comments-link-redirect.html" target="_blank">How to use this Plugin?</a>
+Version: 1.1
 Author: Jason
-Author URI: http://blog.SuccessFu.net.ru/
+Author URI: http://www.wheatime.com/
 */
 
 
@@ -18,7 +18,7 @@ function redirect_comment_link(){
 			exit;
 		}
 		else {
-			header("Location: http://blog.SuccessFul.net.ru/");
+			header("Location: http://www.wheatime.com/");
 			exit;
 		}
 	}
