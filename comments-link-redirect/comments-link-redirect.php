@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Comments Link Redirect
-Plugin URI: http://www.wheatime.com/2009/06/comments-link-redirect.html 
-Description: Comments Link Redirect. <a href="http://www.wheatime.com/2009/06/comments-link-redirect.html" target="_blank">How to use this Plugin?</a>
+Plugin URI: https://wheat.at/b2014/2009/06/comments-link-redirect.html 
+Description: Comments Link Redirect. <a href="https://wheat.at/b2014/2009/06/comments-link-redirect.html" target="_blank">How to use this Plugin?</a>
 Version: 1.1
 Author: Jason
-Author URI: http://www.wheatime.com/
+Author URI: https://wheat.at/
 */
 
 
@@ -18,7 +18,7 @@ function redirect_comment_link(){
 			exit;
 		}
 		else {
-			header("Location: http://www.wheatime.com/");
+			header("Location: https://wheat.at/b2014/");
 			exit;
 		}
 	}

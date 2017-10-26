@@ -5,7 +5,7 @@ Plugin URI: http://www.dijksterhuis.org/wordpress-plugins/keyword-link-plugin/
 Description: 可以轻松定义关键词自动链接，完美支持中文，并有相关实用功能。 | 汉化     
 Author: 麦子
 Version: 1.1
-Author URI: http://wheat.at
+Author URI: https://wheat.at
 */
 
 /* The idea for this plugin comes from a website I designed. It has lots of touristic 

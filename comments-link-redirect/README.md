@@ -1,13 +1,13 @@
-**ÆÀÂÛÁ´½ÓÖØ¶¨Ïò**
+**è¯„è®ºé“¾æ¥é‡å®šå‘**
 
 Version: 1.1
 
-²å¼şµØÖ·£º[http://www.wheatime.com/2009/06/comments-link-redirect.html](http://www.wheatime.com/2009/06/comments-link-redirect.html)
+æ’ä»¶åœ°å€ï¼š[https://wheat.at/b2014/2009/06/comments-link-redirect.html](https://wheat.at/b2014/2009/06/comments-link-redirect.html)
 
-**Ê¹ÓÃ·½·¨£º**
+**ä½¿ç”¨æ–¹æ³•ï¼š**
 
-1. ¼¤»î²å¼ş
-2. µ½Ö÷ÌâÄÚÕÒµ½ÆÀÂÛÓÃ»§µÄµ÷ÓÃº¯Êı `<?php comment_author_link() ?>`£¬ÔÚÆäÖĞµÄ URL Ç°Ìí¼Ó¡°http://ÄãµÄ²©¿ÍµØÖ·/?r=¡±£¨²»º¬ÒıºÅ£©
-3. ÊÖ¹¤ÔÚ robots.txt ÖĞÌí¼Ó `Disallow: /?r=*`
+1. æ¿€æ´»æ’ä»¶
+2. åˆ°ä¸»é¢˜å†…æ‰¾åˆ°è¯„è®ºç”¨æˆ·çš„è°ƒç”¨å‡½æ•° `<?php comment_author_link() ?>`ï¼Œåœ¨å…¶ä¸­çš„ URL å‰æ·»åŠ â€œhttp://ä½ çš„åšå®¢åœ°å€/?r=â€ï¼ˆä¸å«å¼•å·ï¼‰
+3. æ‰‹å·¥åœ¨ robots.txt ä¸­æ·»åŠ  `Disallow: /?r=*`
 
-¡ª Âó×Ó
+â€” éº¦å­
